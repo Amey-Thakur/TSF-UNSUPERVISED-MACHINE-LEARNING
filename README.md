@@ -10,7 +10,6 @@
 
  - **_Task: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually._**
 
-
 ## TECHNOLOGIES AND LIBRARIES USED:
  
  - Python3, Pandas, Numpy, Matplotlib.pyplot, KMeans.
@@ -19,4 +18,4 @@
 
 <p align="center"> <b> 👉🏻 Presented as a part of the Internship @ The Sparks Foundation 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
