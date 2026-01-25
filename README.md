@@ -115,9 +115,22 @@ TSF-UNSUPERVISED-MACHINE-LEARNING/
 ## Results
 
 <div align="center">
-  <i>Detailed visualization results to be added.</i>
+  <b>1. Optimal K Selection: The Elbow Method</b>
   <br>
-  <!-- Placeholders for screenshots -->
+  <i>Determining the ideal number of clusters by minimizing WCSS.</i>
+  <br><br>
+  <img src="screenshots/01-elbow-method.png" alt="Elbow Method Plot" width="70%">
+  <br><br>
+  
+  > From the above plot, a clear elbow is seen to be formed at **3**. Thus, the optimum number of clusters is **3**.
+
+  <br><br>
+
+  <b>2. Model Inference: Cluster Visualization</b>
+  <br>
+  <i>Scatter plot exhibiting the separation of Iris species into 3 distinct clusters: Setosa (Blue), Versicolor (Green), and Virginica (Yellow), with Centroids marked in Red.</i>
+  <br><br>
+  <img src="screenshots/02-cluster-visualization.png" alt="Cluster Visualization" width="70%">
 </div>
 
 ---
