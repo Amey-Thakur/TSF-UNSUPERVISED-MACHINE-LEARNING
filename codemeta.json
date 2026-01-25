@@ -1,0 +1,49 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "THE SPARKS FOUNDATION - UNSUPERVISED MACHINE LEARNING",
+    "description": "Task 2 of the Data Science and Business Analytics Internship under the Graduate Rotational Internship Program at The Sparks Foundation. This project implements a KMeans Clustering algorithm using the Iris dataset to predict the optimum number of clusters and provide a scholarly visual representation of the findings.",
+    "identifier": "TSF-UNSUPERVISED-MACHINE-LEARNING",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "Python"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557"
+        }
+    ],
+    "dateReleased": "2021-07-02",
+    "codeRepository": "https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Data Science / Unsupervised Machine Learning",
+    "keywords": [
+        "The Sparks Foundation",
+        "GRIP",
+        "Data Science",
+        "Business Analytics",
+        "Unsupervised Learning",
+        "Clustering",
+        "KMeans",
+        "Python3",
+        "Pandas",
+        "Numpy",
+        "Matplotlib.pyplot",
+        "Iris"
+    ],
+    "relatedLink": [
+        "https://bit.ly/3dCEmhS",
+        "https://lnkd.in/gk7sakM",
+        "https://lnkd.in/d5KpTuY",
+        "https://bit.ly/3kXT9go"
+    ]
+}
