@@ -69,6 +69,10 @@ The analysis is governed by strict **exploratory principles** ensuring cluster v
 | **Visualization** | Scatter plotting of clusters and centroids using **Matplotlib**. |
 | **Cluster Prediction** | Assigning new sample points to the nearest established cluster. |
 
+> [!NOTE]
+> ### Empirical Context
+> The dataset comprises multivariate floral attributes (Sepal/Petal dimensions). The distinct separation of species in the feature space justifies the use of **K-Means Clustering** to identify inherent groupings without labeled supervision. The **Elbow Method** empirically validates $K=3$ as the optimal cluster count, aligning perfectly with the known biological taxonomy of the Iris species.
+
 ### Tech Stack
 - **Runtime**: Python 3.x
 - **Data Manipulation**: Pandas, NumPy
