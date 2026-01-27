@@ -149,110 +149,7 @@
             padding-bottom: 15px;
         }
 
-        /* MacBook Frame Styles */
-        .macbook-wrapper {
-            display: flex;
-            justify-content: center;
-            margin: 40px 0 60px;
-            padding: 0 20px;
-            perspective: 2000px;
-        }
 
-        .macbook {
-            width: 100%;
-            max-width: 800px;
-            position: relative;
-            transform-style: preserve-3d;
-            transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.27);
-        }
-
-        .macbook:hover {
-            transform: scale(1.02) translateY(-5px) rotateX(1deg);
-        }
-
-        .macbook .screen {
-            background: #0d1117;
-            border-radius: 12px 12px 0 0;
-            border: 1px solid #30363d;
-            border-bottom: none;
-            position: relative;
-            padding: 8px 8px 0 8px;
-            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
-            z-index: 10;
-        }
-
-        .macbook .viewport {
-            position: relative;
-            padding-bottom: 56.25%;
-            height: 0;
-            background: #000;
-            border-radius: 2px 2px 0 0;
-            overflow: hidden;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .macbook .viewport img {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .macbook .notch {
-            position: absolute;
-            top: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 120px;
-            height: 20px;
-            background: #0d1117;
-            border-bottom-left-radius: 6px;
-            border-bottom-right-radius: 6px;
-            z-index: 20;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border: 1px solid #000;
-            border-top: none;
-        }
-
-        .macbook .notch::after {
-            content: '';
-            width: 4px;
-            height: 4px;
-            background: #1f242c;
-            border-radius: 50%;
-            box-shadow: 0 0 1px rgba(255, 255, 255, 0.2);
-        }
-
-        .macbook .base {
-            background: #161b22;
-            height: 24px;
-            width: 120%;
-            margin-left: -10%;
-            border-radius: 0 0 20px 20px;
-            position: relative;
-            z-index: 9;
-            border: 1px solid #30363d;
-            border-top: none;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-        }
-
-        .macbook .base::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 15%;
-            height: 6px;
-            background: #30363d;
-            border-radius: 0 0 8px 8px;
-        }
 
         /* Cards Grid */
         .grid {
@@ -598,21 +495,7 @@
             </div>
         </header>
 
-        <!-- Video Demo Placeholder (Image in MacBook) -->
-        <div class="section">
-            <h2>🎥 Project Demo</h2>
-            <div class="macbook-wrapper">
-                <div class="macbook">
-                    <div class="screen">
-                        <div class="viewport">
-                            <img src="screenshots/02-cluster-visualization.png" alt="Cluster Visualization Demo">
-                        </div>
-                    </div>
-                    <div class="base"></div>
-                    <div class="notch"></div>
-                </div>
-            </div>
-        </div>
+
 
         <!-- Results Gallery -->
         <div class="section">
