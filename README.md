@@ -10,7 +10,7 @@
 
   A clustering analysis demonstrating the application of **K-Means Algorithm** to identify optimum clusters in the Iris dataset and visualize the underlying patterns.
   
-  **[Google Colab](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING/blob/main/Source%20Code/TSF_INTERNSHIP_TASK_2_UNSUPERVISED_LEARNING.ipynb)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/ameythakur20/tsf-internship-task-2-unsupervised-learning)**
+  **[Google Colab](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING/blob/main/Source%20Code/TSF_INTERNSHIP_TASK_2_UNSUPERVISED_LEARNING.ipynb)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/ameythakur20/tsf-internship-task-2-unsupervised-learning)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/TSF-UNSUPERVISED-MACHINE-LEARNING/)**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#methodology) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#methodology) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -172,6 +172,22 @@ jupyter notebook "Source Code/TSF_INTERNSHIP_TASK_2_UNSUPERVISED_LEARNING.ipynb"
 
 ---
 
+<!-- USAGE GUIDELINES -->
+<a name="usage-guidelines"></a>
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use this project as reference material for understanding **unsupervised learning pipelines**, **K-Means clustering**, and **optimum cluster prediction**. The source code is available for study to facilitate self-paced learning and exploration of **Hyperparameter tuning (Elbow Method)**.
+
+**For Educators**  
+This project may serve as a practical lab example or supplementary teaching resource for **Data Science** and **Applied Statistics** courses. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and architectural approach may provide insights into **academic project structuring**, **predictive inference**, and **industrial internship artifacts**.
+
+---
 <!-- LICENSE -->
 <a name="license"></a>
 ## License
@@ -189,7 +205,7 @@ Copyright © 2021 Amey Thakur & Mega Satish
 <a name="about-this-repository"></a>
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)  
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)<br>
 **Role**: Data Science & Business Analytics Interns  
 **Program**: Graduate Rotational Internship Program (GRIP)  
 **Organization**: [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
@@ -213,8 +229,7 @@ Special thanks to the **mentors at The Sparks Foundation** for providing this pl
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#methodology) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
-
-  📈 **[TSF-UNSUPERVISED-MACHINE-LEARNING](https://github.com/Amey-Thakur/TSF-UNSUPERVISED-MACHINE-LEARNING)**
+  📈 **[TSF-UNSUPERVISED-MACHINE-LEARNING](https://amey-thakur.github.io/TSF-UNSUPERVISED-MACHINE-LEARNING/)**
 
   ---
 
