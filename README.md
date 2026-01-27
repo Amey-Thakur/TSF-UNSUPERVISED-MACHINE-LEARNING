@@ -55,10 +55,14 @@ The analysis is governed by strict **exploratory principles** ensuring cluster v
 *   **Cluster Centroids**: Computing the central vector for each species group.
 *   **Dimensionality Visualization**: Plotting the classified clusters in a 2D feature space.
 
----
-
 <!-- FEATURES -->
 <a name="methodology"></a>
+
+> [!TIP]
+> **Algorithm Sensitivity**: K-Means clustering assumes spherical clusters of similar density. Given the slight overlap between *Versicolor* and *Virginica* classes, the algorithm's performance highlights the importance of feature scaling and centroid initialization in density-based separation tasks.
+
+---
+
 ## Features
 
 | Component | Technical Description |
