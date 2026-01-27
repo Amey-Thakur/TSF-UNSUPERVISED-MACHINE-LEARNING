@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#methodology) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -55,14 +55,12 @@ The analysis is governed by strict **exploratory principles** ensuring cluster v
 *   **Cluster Centroids**: Computing the central vector for each species group.
 *   **Dimensionality Visualization**: Plotting the classified clusters in a 2D feature space.
 
-<!-- FEATURES -->
-<a name="methodology"></a>
-
 > [!TIP]
 > **Algorithm Sensitivity**: K-Means clustering assumes spherical clusters of similar density. Given the slight overlap between *Versicolor* and *Virginica* classes, the algorithm's performance highlights the importance of feature scaling and centroid initialization in density-based separation tasks.
 
 ---
 
+<a name="features"></a>
 ## Features
 
 | Component | Technical Description |
@@ -230,7 +228,7 @@ Special thanks to the **mentors at The Sparks Foundation** for providing this pl
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#methodology) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
   📈 **[TSF-UNSUPERVISED-MACHINE-LEARNING](https://amey-thakur.github.io/TSF-UNSUPERVISED-MACHINE-LEARNING/)**
