@@ -172,6 +172,13 @@ Launch the analysis kernel to reproduce the findings:
 jupyter notebook "Source Code/TSF_INTERNSHIP_TASK_2_UNSUPERVISED_LEARNING.ipynb"
 ```
 
+> [!TIP]
+> **Interactive Cluster Analytics | Iris Species Grouping**
+> 
+> Explore the high-fidelity **Live Demo** to visualize the **K-Means Clustering** process in action. The interactive result analysis showcases **Optimal K Selection** via the **Elbow Method** and high-fidelity **Cluster Visualization**, demonstrating the separation of Iris species into three distinct non-overlapping subgroups based on multivariate floral attributes.
+>
+> [**Launch Live Demo**](https://amey-thakur.github.io/TSF-UNSUPERVISED-MACHINE-LEARNING/)
+
 ---
 
 <!-- USAGE GUIDELINES -->
